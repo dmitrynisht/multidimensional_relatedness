@@ -1,0 +1,182 @@
+# Core typing support
+annotated-types==0.7.0
+anyio==4.9.0
+async-lru==2.0.5
+attrs==25.3.0
+
+# Code formatting & linting
+autopep8==2.3.2
+black==25.1.0
+nbqa==1.9.1
+pathspec==0.12.1
+pycodestyle==2.13.0
+tokenize-rt==6.1.0
+tomli==2.2.1
+
+# Jupyter ecosystem
+ipykernel==6.29.4
+ipython==8.24.0
+ipython-genutils==0.2.0
+ipywidgets==8.1.5
+jupyter_client==8.7.0
+jupyter_contrib_core==0.4.2
+jupyter_contrib_nbextensions==0.7.0
+jupyter_core==5.7.2
+jupyter_nbextensions_configurator==0.6.4
+jupyter_server==2.15.0
+jupyter_server_terminals==0.5.3
+jupyterlab==4.3.6
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.27.3
+jupyterlab_widgets==3.0.13
+matplotlib-inline==0.1.7
+notebook==7.3.3
+notebook_shim==0.2.4
+widgetsnbextension==4.0.13
+
+# Visualization
+matplotlib==3.10.1
+seaborn==0.13.2
+tqdm==4.67.1
+pygments==2.17.2
+rich==13.9.4
+
+# Data processing
+pandas==2.2.1
+pyarrow==19.0.1
+numpy==1.26.4
+scikit-learn==1.6.1
+scipy==1.15.2
+joblib==1.4.2
+threadpoolctl==3.6.0
+
+# Graph & GNN
+networkx==3.3
+dgl==2.2.1
+torch==2.1.0+cpu
+torchdata==0.7.0
+umap-learn==0.5.7
+hdbscan==0.8.40
+optuna==4.2.1
+
+# Database / ORM
+SQLAlchemy==2.0.40
+alembic==1.15.2
+
+# Notebook/HTML
+beautifulsoup4==4.13.3
+bleach==6.2.0
+mistune==3.1.3
+nbclient==0.10.2
+nbconvert==7.16.6
+nbformat==5.10.4
+pandocfilters==1.5.1
+webencodings==0.5.1
+json5==0.10.0
+
+# FastAPI + Uvicorn stack
+fastapi==0.115.12
+uvicorn==0.34.0
+starlette==0.46.1
+httptools==0.6.4
+
+# Observability
+memory-profiler==0.61.0
+prometheus_client==0.21.1
+python-json-logger==3.3.0
+
+# ONNX & Protobuf
+onnxruntime==1.21.0
+protobuf==5.29.4
+
+# Web scraping / API
+requests==2.32.3
+urllib3==2.3.0
+httpx==0.28.1
+httpcore==1.0.7
+idna==3.10
+charset-normalizer==3.4.1
+python-dotenv==1.1.0
+
+# Dev & runtime support
+pydantic==2.11.1
+pydantic_core==2.33.0
+typing-inspection==0.4.0
+typing-extensions==4.11.0
+zipp==3.18.1
+importlib_resources==6.5.2
+packaging==23.2
+six==1.16.0
+pyyaml==6.0.2
+
+# Optional / domain-specific
+huggingface-hub==0.29.3
+google-auth==2.38.0
+kubernetes==32.0.1
+mmh3==5.1.0
+posthog==3.23.0
+orjson==3.10.16
+lxml==5.3.1
+watchfiles==1.0.4
+pywin32==308
+pyreadline3==3.5.4
+pyzmq==25.1.2
+psutil==5.9.8
+chroma-hnswlib==0.7.6
+chromadb==0.6.3
+PyPika==0.48.9
+fsspec==2024.6.1
+
+# Unicode & formatting
+wcwidth==0.2.13
+pyparsing==3.2.3
+fqdn==1.5.1
+mdurl==0.1.2
+markdown-it-py==3.0.0
+uri-template==1.3.0
+webcolors==24.11.1
+
+# Notebook debugging
+executing==2.0.1
+pure-eval==0.2.2
+stack-data==0.6.3
+
+# Datetime / parsing
+pytz==2025.2
+python-dateutil==2.9.0
+
+# Auth
+bcrypt==4.3.0
+oauthlib==3.2.2
+rsa==4.9
+requests-oauthlib==2.0.0
+pyasn1==0.6.1
+pyasn1-modules==0.4.2
+
+# Leftovers (safe but niche)
+monotonic==1.6
+durationpy==0.9
+overrides==7.7.0
+shellingham==1.5.4
+sniffio==1.3.1
+soupsieve==2.6
+tenacity==9.0.0
+wrapt==1.17.2
+backoff==2.2.1
+Deprecated==1.2.18
+build==1.2.2.post1
+colorlog==6.9.0
+coloredlogs==15.0.1
+flatbuffers==25.2.10
+humanfriendly==10.0
+llvmlite==0.44.0
+numba==0.61.2
+mpmath==1.3.0
+sympy==1.13.1
+tokenizers==0.21.1
+typer==0.15.2
+Send2Trash==1.8.3
+tinycss2==1.4.0
+websocket-client==1.8.0
+websockets==15.0.1
+types-python-dateutil==2.9.0.20241206
